@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+pyu/**
+fonts/**
+output/**
+.vscode/**
 build/
 develop-eggs/
 dist/
